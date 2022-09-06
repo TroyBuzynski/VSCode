@@ -34,7 +34,7 @@ for line in fin:
 
     #split the file name into individual values
     li = line.split("-")
-    valuesList = [ li[0]+"_"+li[1] ,  li[2] , "" , li[3] + "_" + li[4] , li[5]+"_"+li[6]+"_"+li[7]+"_"+li[8] , li[9] , li[10] ]
+    valuesList = [ li[0] , li[2] , f"{li[6]}_{li[7]}", f"{li[3]}_{li[4]}" , f"{li[5]}_{li[6]}_{li[7]}_{li[8]}" , li[9] , li[10] ]
     
     #Write to txt file
     #If there are errors, write the string to a file
