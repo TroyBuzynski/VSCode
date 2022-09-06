@@ -1,16 +1,14 @@
 # Set the path of the Folder to search through
-$path = 'H:\ScriptTesting - Copy'
+$path = '[some path]'
 # Set the Folder to save purge logs in
-$logPath = 'H:\'
+$logPath = '[some path]'
 # Set the length of time in days to keep files
-$retention = 1300 
+$retention = 180 
 
 
 
 $limit = (Get-Date).AddDays(-$retention)
 $dateTime = Get-Date -Format FileDateTime
-$path = 'H:\ScriptTesting - Copy'
-$logPath = 'H:\'
 
 # Delete files older than the $limit.
 Get-ChildItem -Path $path -Recurse -Force | 

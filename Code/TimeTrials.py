@@ -1,11 +1,5 @@
 from datetime import datetime
-from distutils.file_util import write_file
-from email import message
-from tkinter import Y
 
-#start_time = "2.30.00"
-#end_time = "24.46.38"
-#rider_name = "Troy"
 print("\n")
 f = open("TimeTrial.txt","a")
 f.write("Time Trials   DateTime:  " + str(datetime.now()) + "\n")
