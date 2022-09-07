@@ -9,8 +9,8 @@ class Event:
     def get_riders(self):
         return self.riders
     
-    def add_rider(self,name):
-        self.riders.append(Rider(name))
+    def add_rider(self,rider):
+        self.riders.append(rider)
 
 class Rider:
     def __init__(self, name, start_time = "00.00.00" , end_time = "00.00.00" ):
@@ -35,10 +35,20 @@ class Rider:
     
     def set_end_time(self,end_time):
         self.end_time = end_time
+        
+
+
 
 
 e =Event()
-e.add_rider("Troy")        
-r = Rider("MAx")
-print(r.get_name())
+riders = ["Max", "Troy", "Phil"]
+for rider in riders:
+    e.add_rider(Rider(rider))
+
+      
+
+
+
+#for rider in e.get_riders():
+ #   print(rider.get_name())
 print(e.get_riders())

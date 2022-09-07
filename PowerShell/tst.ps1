@@ -19,6 +19,13 @@ Get-help -Online Clear-Content
 Get-WindowsOptionalFeature -FeatureName
 
 
+<#$fileList =  @()
+$i = 0
+while( $i -lt 10 ) {
 
+    $fileList += New-Item -Path $devServerPath -Name "blank_$i.txt" -ItemType "file" -Value ""
+    $i+= 1
+
+}#>
 
 
