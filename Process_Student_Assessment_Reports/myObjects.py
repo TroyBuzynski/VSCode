@@ -31,9 +31,9 @@ class Batch:
     def create_index_file(self, path, arg):
         fout = open(path, arg)
         for document in self.documents:
-            fout.write("\nBEGIN\n")
+            fout.write("\nBEGIN:\n")
             for keyword in document.get_keyWords():
-                fout.write(f"{keyword.get_type()} : {keyword.get_value()}\n" )
+                fout.write(f"{keyword.get_type()}:{keyword.get_value()}\n" )
         fout.close
         
     def write_cleanFiles(self, path, arg):
