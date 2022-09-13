@@ -1,18 +1,13 @@
 #from curses.ascii import isalpha
 import os
 
-
-
 def createIndexFile(fileName):
     #If the file already exitsts, delete it.
-    if os.path.exists(fileName):
-        os.remove(fileName)
+    #if os.path.exists(fileName):
+     #   os.remove(fileName)
     return open(fileName, "a")
 
 def DIP_format(fout, keyWordList, valuesList):
-    
-   
-    
     fout.write("\nBEGIN\n")
     #Initialize a count variable
     i = 0
@@ -36,11 +31,18 @@ def create_values_list(li):
 
 def main():
     #Read in the File
-    fin = open("H:\AIMG-362\myfile.txt", "r" )
+    file = input("Enter 1 or 2: ") 
+    if file == "1":
+        path = "H:\AIMG-362\myfile.txt"
+    elif file == "2":
+        path = "H:\AIMG-362\error_file.txt"
+    else: 
+        print("Invalid input")
+    fin = open(path, "r" )
 
     #Create an index file for DIP
-    fout1 = createIndexFile("Index.txt")
-    fout2 = createIndexFile("Error_Index.txt")
+    fout1 = open("H:\AIMG-362\Index.txt", "a")
+    fout2 = open("H:\AIMG-362\error_file.txt", "w")
 
     #Create a list of all the Keywords on the DocType
     keyWordList = ["SUBUNIT","USER_EXTERNAL_ID","PERIOD","COURSE_ID","SURVEY","LAST_NAME","FIRST_NAME"]
