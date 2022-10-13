@@ -1,31 +1,14 @@
-$myObj = [PSCustomObject] @{ 
-    path = "H:\ScriptTesting"
-    prop1 = 'Hello'
-    prop2 = 'GoodBye!!!'
+param ($dept)
+$targetDir = "E:\Autofill\$dept"
+$logDir = "E:\Logs\$dept"
+$dateTime = Get-Date -Format FileDateTime
 
+#Testing if the folder already exists
+if (!(Test-Path -Path $logDir)) {New-Item -ItemType "directory" -Path $logDir}
+New-Item -ItemType "directory" -Path $logDir\$dateTime
 
-}
-$myObj | Get-Member
-
-
-$users = @{
-    bobt = 'Bob Tiger'
-    joeb = 'Joe Bob'
-}
-
-$users.GetHashCode()
-
-Get-help -Online Clear-Content
-Get-WindowsOptionalFeature -FeatureName
-
-
-<#$fileList =  @()
-$i = 0
-while( $i -lt 10 ) {
-
-    $fileList += New-Item -Path $devServerPath -Name "blank_$i.txt" -ItemType "file" -Value ""
-    $i+= 1
-
-}#>
-
-
+#Looks through the $targetDir, moves all the empty text files to the new directory labled by the dateTime, creates a log of the moved items.
+Get-ChildItem -Path $targetDir  | 
+    Where-Object { ($_.PSIsContainer -eq $false) -and ($_.Length -eq 0) -and ($_.Name -like "*.txt") } | 
+    Select-Object -ExpandProperty FullName | Set-Content -Path $logDir\$dateTime\_EmptyFiles.log  -PassThru |
+    Move-Item -Destination $logDir\$dateTime -Include *.txt -Force
