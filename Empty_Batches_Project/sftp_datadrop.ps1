@@ -77,11 +77,11 @@ Function Invoke-SFTP {
       # Set up session options
       $sessionOptions = New-Object WinSCP.SessionOptions -Property @{
         Protocol = [WinSCP.Protocol]::Sftp
-        HostName = "datadroptest.admin.uni.edu"
+        HostName = "datadrop.admin.uni.edu"
         UserName = "drop-imaging"
-        Password = "1mag1ngftppr0c3ss#"
-        SshHostKeyFingerprint = "ssh-ed25519 255 rqDeNrOMllZtK8pJDID0pmFpYzF+E7d4XfzOx6hJ65U"
-        #SshPrivateKeyPath = "C:\ProgramData\ssh\drop-imaging_datadroptest.ppk"
+        #Password = ""
+        SshHostKeyFingerprint = "ssh-rsa 2048 a1:49:8e:38:59:97:94:75:21:ac:db:5f:da:45:a3:0d"
+        SshPrivateKeyPath = "C:\ProgramData\ssh\drop-imaging@datadrop.ppk"
       }
 
       $session = New-Object WinSCP.Session
@@ -90,7 +90,7 @@ Function Invoke-SFTP {
             # Connect
             $session.Open($sessionOptions)
  
-            # Synchronize files to local directory, collect results
+            # Synchronize files to from remote directory to local directory, collect results
             $synchronizationResult = $session.SynchronizeDirectories(
                 [WinSCP.SynchronizationMode]::Local, $localPath, $remotePath, $False)
  
