@@ -9,38 +9,29 @@ def format_name(str):
             return str
 
     str = str.removesuffix(".pdf\n")
-    str = handle_errors(str, "-" , " ")
-    str = handle_errors(str," Extended", "_Extended")
-    str = handle_errors(str, "2213 Spring", "2213_Spring")
-    str = handle_errors(str,"First Year","First_Year")
-    str = handle_errors(str,"K 8", "K_8")   
-    str = handle_errors(str,"K 12", "K_12") 
-    str = handle_errors(str,"5 12", "5_12")
-    str = handle_errors(str,"_ ", "_")
-    str = handle_errors(str,"- ", "-")
+    str = handle_errors(str, "-" , "$")
+    str = handle_errors(str,"$Extended", "")
+    str = handle_errors(str,"__", " & ")
+    str = handle_errors(str, "$Spring_", "-Spring-")
+    str = handle_errors(str,"First$Year","First-Year")
+    str = handle_errors(str,"K$8", "K-8")   
+    str = handle_errors(str,"K $12", "K-12") 
+    str = handle_errors(str,"5$12", "5-12")
+    str = handle_errors(str,"_", " ")
+    #str = handle_errors(str,"- ", "-")
+    print(str)
+    return str
     
-    li = str.split(" ")
-    if len(li) == 10:
-        li = [ f"{li[0]} "  , f"{li[2]} " , f"{li[3]} ", f"{li[5]}{li[6]} " , f"{li[7]} " , 
-                f"{li[8]} " , f"{li[9]}" ]
-        str = ""
-        for item in li:
-            str = str + item
-        print(str)
-        return str
-    else:
-        print(str)
-        return str
         
 
 fin = open("H:\AIMG-362\myfile.txt", "r")
 #fin = open("H:\AIMG-362\dirty_files.txt",, "r")
 batch = Batch()
 
-for file in fin:
-    str = format_name(file)
-    str = str + " " + file
-    if len(str.split(" ")) == 8:
+for line in fin:
+    str = format_name(line)
+    str = str + "$" + line
+    if len(str.split("$")) == 11:
         batch.add_cleanFile(str)
     else:
         batch.add_dirtyFile(str)

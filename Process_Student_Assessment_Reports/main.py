@@ -10,7 +10,7 @@ from myObjects import Keyword
 
 IN_PATH = "H:\AIMG-362\clean_files.txt"
 OUT_PATH = "H:\AIMG-362\index_student_assessment_reports.txt"
-KEYWORD_LIST = ["SUBUNIT","USER_EXTERNAL_ID","PERIOD","COURSE_ID","SURVEY","LAST_NAME","FIRST_NAME", "PATH"]
+KEYWORD_LIST = ["HR_ORGANIZATION", "COURSE_ID", "USER_EXTERNAL_ID","PERIOD","SUBJECT_AREA","CATALOG_NUMBER" ,"CLASS_SECTION", "DESCRIPTION","LAST_NAME","FIRST_NAME", "PATH"]
 
 
 fin = open(IN_PATH, "r")
@@ -18,7 +18,7 @@ batch = Batch()
 
 for fileName in fin:
     doc = Document()
-    valuesList = fileName.split(" ")
+    valuesList = fileName.split("$")
     if len(valuesList) == len(KEYWORD_LIST):
         i=0
         for value in valuesList:
