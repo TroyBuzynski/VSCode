@@ -15,11 +15,10 @@ def format_name(str):
     str = handle_errors(str, "$Spring_", "-Spring-")
     str = handle_errors(str,"First$Year","First-Year")
     str = handle_errors(str,"K$8", "K-8")   
-    str = handle_errors(str,"K $12", "K-12") 
+    str = handle_errors(str,"K$12", "K-12") 
     str = handle_errors(str,"5$12", "5-12")
     str = handle_errors(str,"_", " ")
     #str = handle_errors(str,"- ", "-")
-    print(str)
     return str
     
         
@@ -34,6 +33,7 @@ for line in fin:
     if len(str.split("$")) == 11:
         batch.add_cleanFile(str)
     else:
+        print(str)
         batch.add_dirtyFile(str)
         
 
