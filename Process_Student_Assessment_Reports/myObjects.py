@@ -1,4 +1,4 @@
-         
+#Programmer: Troy Buzynski       
 
 class Batch:
     def __init__(self):
