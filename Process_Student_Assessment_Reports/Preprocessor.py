@@ -1,8 +1,6 @@
-
-
-
+import os
 from myObjects import Batch
-
+PATH = "H:\AIMG-362\PDF_Reports_2213_final(copy)"
 # Takes in a string and modifies it to fit the following format:
 # HR_ORGANIZATION$FACULTY_UID$TERM$SUBJECT$CATALOG_NUMBER$SECTION$DESCRIPTION
 def format_name(str):
@@ -24,16 +22,16 @@ def format_name(str):
     str = li[0] + "$" + li[1] + "$" + li[3] + "$" + li[5] + "$" + li[6] + "$" + li[7] + "$" + li[8]
     return str
          
-# Read in File
-fin = open("H:\AIMG-362\myfile.txt", "r")
+
+fileList = os.listdir(PATH)
 # instantiate Batch obj
 batch = Batch()
 # Loop through the file
-for line in fin:
+for fileName in fileList:
     #formate each line
-    str = format_name(line)
+    str = format_name(fileName)
     #add the file name to the end of the string
-    str = str + "$" + line
+    str = str + "$" + fileName + "\n"
     # verify the string contains exactly 8 keywords
     if len(str.split("$")) == 8:
         batch.add_cleanFile(str)
@@ -45,4 +43,3 @@ for line in fin:
 batch.write_cleanFiles("H:\AIMG-362\clean_files.txt", "w")  
 batch.write_dirtyFiles("H:\AIMG-362\dirty_files.txt", "w")
 # Close the read in file.
-fin.close()
