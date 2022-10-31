@@ -3,8 +3,13 @@
 class Batch:
     def __init__(self):
         self.documents = []
+        #files that are formated correctly
         self.cleanFiles = []
+        #fileNames that are formated incorrectly
         self.dirtyFiles = []
+        
+    def get_cleanFiles(self):
+        return self.cleanFiles
    
     def add_document(self,document):
         self.documents.append(document)
@@ -27,14 +32,24 @@ class Batch:
         for document in self.documents:
             for keyword in document.get_keyWords():
                 print(keyword.get_type(), keyword.get_value())
-            
+                
+           
     def create_index_file(self, path, arg):
+        """Constructs a .txt file that can be interpereted by OnBase Document Import Processor (DIP)
+
+        Args:
+            path (String): Location and Name of the file. Ex: C:\Documents\myFile.txt
+            arg (char): w - to overwrite existing file
+                        a - to append to existing file
+        """
+        print("Constructing Index File.\n")
         fout = open(path, arg)
         for document in self.documents:
             fout.write("\nBEGIN:\n")
             for keyword in document.get_keyWords():
                 fout.write(f"{keyword.get_type()}:{keyword.get_value()}\n" )
         fout.close
+        print("Index file Location: " + path + "\n\n")
         
     def write_cleanFiles(self, path, arg):
         fout = open(path, arg)
@@ -76,8 +91,54 @@ class Keyword:
         
         
         
+class File:
+    
+    @staticmethod
+    def handle_errors( str, sub_str, replacemnet_str):
+        """
+        Searches a string for a substring, if substring is found then it is replaced
 
+        Args:
+            str (String): The string to search through.
+            sub_str (String): The string to be found and replaced.
+            replacemnet_str (String): The replacement string.
+
+        Returns:
+            String: The modified sting if substring is found or the original string if substring is not found. 
+        """
+        if sub_str in str:
+            str = str.replace(sub_str, replacemnet_str)
+            return str
+        else:
+            return str
         
+    def __init__(self,fileName):
+        self.fileName = fileName
+        
+    def get_fileName(self):
+        return self.fileName
+    
+    def get_length(self):
+        return len(self.fileName.split("$"))
+    
+    
+    def format(self):
+        """ 
+        Modifies the fileName to fit the following format:
+        HR_ORGANIZATION$FACULTY_UID$TERM$SUBJECT$CATALOG_NUMBER$SECTION$DESCRIPTION$PATH
+        """
+        str = self.fileName
+        str = str.removesuffix(".pdf\n") 
+        str = self.handle_errors(str, "_" , " ")
+        str = self.handle_errors(str,"-Extended", "")
+        str = self.handle_errors(str,"  ", " & ")
+    
+        li = str.split("-")
+        # Selecting the needed Keywords and adding a unique separator
+        str = li[0] + "$" + li[1] + "$" + li[3] + "$" + li[5] + "$" + li[6] + "$" + li[7] + "$" + li[8]
+        #add the file name to the end of the string
+        str = str + "$" + self.fileName + "\n"
+        self.fileName = str
 
 
 
