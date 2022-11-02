@@ -51,7 +51,7 @@ Files will be placed in a log directory with a .log file
    #Looks through the $targetDir, moves all the empty text files to the new directory labled by the timestamp, creates a log of the moved items.
     if (Test-Path -Path $targetDir) {
         $empties = Get-ChildItem -Path $targetDir  | 
-                        Where-Object { ($_.PSIsContainer -eq $false) -and ($_.Length -eq 0) -and ($_.Name -like "*.txt") } | 
+                        Where-Object { ($_.PSIsContainer -eq $false) -and ($_.Length -le 1) -and ($_.Name -like "*.txt") } | 
                         Select-Object -ExpandProperty FullName 
     }
     if ($null -ne $empties){

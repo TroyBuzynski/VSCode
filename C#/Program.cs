@@ -1,20 +1,42 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using MailKit.Net.Smtp;
+using MailKit;
+using MimeKit;
 
 
-const string dirname = "H:\\AIMG-362\\PDF_Reports_2213_final";
-const string dirname2 = "H:\\AIMG-362\\PDF_Reports_2213_final(copy)\\";
+MimeMessage message = new MimeMessage();
+message.From.Add(new MailboxAddress("Tester", "buz8658@gmail.com" ));
 
-if (!Directory.Exists(dirname2)){ Directory.CreateDirectory(dirname2);}
+message.To.Add(MailboxAddress.Parse("troy.buzynski@uni.edu"));
 
+message.Subject = "Fail";
 
+message.Body = new TextPart("plain"){
+    Text = @"Yes,
+    DHellow!
+    This is a Dog!"
+};
 
-Array fileList = Directory.GetFiles(dirname);
+string emailAddress = "buz8658@gmail.com";
 
-foreach (String path in fileList) {
-    FileInfo fi = new FileInfo(path);
-    if (File.Exists(path)) {
-        //Console.WriteLine(dirname2 + fi.Name);
-        File.Move(path,dirname2 + fi.Name);
-    };
+string password = "jyffEg-5qatce-kacsuv";
+
+SmtpClient client = new SmtpClient();
+
+try
+{
+    client.Connect("smtp.gmail.com", 645,true);
+    client.Authenticate(emailAddress,password);
+    client.Send(message);
+
+    Console.WriteLine("Email Sent!");
+}
+catch (System.Exception e)
+{
+    Console.WriteLine(e.Message);
+    throw;
+}
+finally{
+    client.Disconnect(true);
+    client.Dispose();
 }
