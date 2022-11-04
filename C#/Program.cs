@@ -39,4 +39,5 @@ catch (System.Exception e)
 finally{
     client.Disconnect(true);
     client.Dispose();
+    //some changes
 }
