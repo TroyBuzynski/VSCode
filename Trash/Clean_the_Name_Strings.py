@@ -1,14 +1,13 @@
-from myObjects import Batch
-        
+#from myObjects import Batch
+def handle_errors( str, sub_str, replacemnet_str):
+    if sub_str in str:
+        str = str.replace(sub_str, replacemnet_str)
+        return str
+    else:
+        return str  
 def format_name(str):
-    def handle_errors( str, sub_str, replacemnet_str):
-        if sub_str in str:
-            str = str.replace(sub_str, replacemnet_str)
-            return str
-        else:
-            return str
 
-    str = str.removesuffix(".pdf\n")
+    #str = str.removesuffix(".pdf\n")
     str = handle_errors(str, "-" , "$")
     str = handle_errors(str,"$Extended", "")
     str = handle_errors(str,"__", " & ")
@@ -23,20 +22,21 @@ def format_name(str):
     
         
 
-fin = open("H:\AIMG-362\myfile.txt", "r")
-#fin = open("H:\AIMG-362\dirty_files.txt",, "r")
-batch = Batch()
-
-for line in fin:
-    str = format_name(line)
-    str = str + "$" + line
-    if len(str.split("$")) == 11:
-        batch.add_cleanFile(str)
+fin1 = open("H:\\ver_rep.txt", "r")
+fin2 = open("H:\\myfile.txt", "r")
+li = []
+for line in fin2:
+    li.append(line)
+i = 0    
+for line in fin1:
+    if line in li:
+        i+=1
     else:
-        print(str)
-        batch.add_dirtyFile(str)
-        
+        print(line)
+print(i)       
 
-batch.write_cleanFiles("H:\AIMG-362\clean_files.txt", "w")  
-batch.write_dirtyFiles("H:\AIMG-362\dirty_files.txt", "w")
-fin.close()
+        
+    
+
+#batch.write_cleanFiles("H:\AIMG-362\clean_files.txt", "w")  
+#batch.write_dirtyFiles("H:\AIMG-362\dirty_files.txt", "w")
