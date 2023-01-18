@@ -1,0 +1,3978 @@
+<users>
+    <primary_id>570380</primary_id>
+    <first_name>Andrea</first_name>
+    <middle_name>V</middle_name>
+    <last_name>Johnson</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Russell Hall 115</line2>
+                <line3>RSL 115  0246</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>andrea.johnson@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2024</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057038002</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Music, School of</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570391</primary_id>
+    <first_name>Kylie</first_name>
+    <middle_name>Jean</middle_name>
+    <last_name>Rink</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 27</line2>
+                <line3>GIL 27  0034</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>rinkk@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2422</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057039101</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Human Resource Services</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Teaching</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570398</primary_id>
+    <first_name>Lisa</first_name>
+    <middle_name>E</middle_name>
+    <last_name>Green</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Social Behavior Research 202</line2>
+                <line3>SBR 202  0402</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>lisa.green@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-7433</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057039801</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Center for Social &amp; Behavioral Research</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570499</primary_id>
+    <first_name>Sarah</first_name>
+    <middle_name>E</middle_name>
+    <last_name>Bryans-Bongey</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Schindler Educ Ctr 620</line2>
+                <line3>SEC 620  0606</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>sarah.bryans-bongey@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-5527</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057049901</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Curriculum &amp; Instruction</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570530</primary_id>
+    <first_name>Alison</first_name>
+    <middle_name>R</middle_name>
+    <last_name>Cox</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Bartlett Hall 2113</line2>
+                <line3>BAR 2113  0513</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>alison.cox@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6251</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057053001</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Sociology, Anthropology &amp; Criminology</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570563</primary_id>
+    <first_name>Jason</first_name>
+    <middle_name>R</middle_name>
+    <last_name>Allen</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>McLeod Center 15</line2>
+                <line3>MCL 15  0317</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>jason.allen@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6480</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057056301</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Volleyball</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570667</primary_id>
+    <first_name>Benjamin</first_name>
+    <middle_name>D</middle_name>
+    <last_name>Colin</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Wellness &amp; Recreation Ctr 249</line2>
+                <line3>WRC 249  0241</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>benjamin.colin@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2470</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057066701</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Swimming</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570830</primary_id>
+    <first_name>Juanita</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Eliasen</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Redeker Center</line2>
+                <line3>RDC 010  0252</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>juanita.eliasen@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2510</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057083001</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Piazza</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570845</primary_id>
+    <first_name>John</first_name>
+    <middle_name>O</middle_name>
+    <last_name>Peterson</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 002</line2>
+                <line3>GIL 002  0018</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>john.peterson@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2281</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057084501</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Admissions</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Operations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>570892</primary_id>
+    <first_name>Cordelia</first_name>
+    <middle_name>N</middle_name>
+    <last_name>Martin</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Seerley Hall 319</line2>
+                <line3>SRL 319  0701</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>cordelia.martin@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2097</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057089201</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">History</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571025</primary_id>
+    <first_name>Jewell</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Jones</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 105</line2>
+                <line3>GIL 105  0024</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>jwlljone@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2814</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057102501</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Financial Aid</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571031</primary_id>
+    <first_name>Richard</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Pfarrer</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 30</line2>
+                <line3>GIL 30  0023</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>richard.pfarrer@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2712</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057103102</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Public Safety</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571115</primary_id>
+    <first_name>Amy</first_name>
+    <middle_name>C</middle_name>
+    <last_name>Mayer</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Schindler Educ Ctr 151</line2>
+                <line3>SEC 151  0608</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>amy.mayer@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-4252</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057111501</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="COLLEGE">College of Education</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571119</primary_id>
+    <first_name>Stephanie</first_name>
+    <middle_name>F</middle_name>
+    <last_name>Ycaza</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Russell Hall 115</line2>
+                <line3>RSL 115  0246</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>stephanie.ycaza@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2024</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057111901</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Music, School of</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571267</primary_id>
+    <first_name>Darion</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Hutchinson</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>McLeod Center 11</line2>
+                <line3>MCL 11  0316</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>darion.hutchinson@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-7017</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057126701</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Basketball, Women&apos;s</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571320</primary_id>
+    <first_name>Laikyn</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Miller</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Ctr for Energy &amp; Env Educ 111</line2>
+                <line3>CEEE 111  0293</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>laikyn@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2573</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057132001</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Center for Energy &amp; Environmental Educ</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571501</primary_id>
+    <first_name>Kathryn</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Pfarrer</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Redeker Center 110</line2>
+                <line3>RDC 110  0252</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>katie.pfarrer@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2333</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057150101</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Housing</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571503</primary_id>
+    <first_name>Brandyce</first_name>
+    <middle_name>K</middle_name>
+    <last_name>Case Haub</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Ctr for Energy &amp; Env Educ 111</line2>
+                <line3>CEEE 111  0293</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>brandy.casehaub@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>515-865-9709</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057150301</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Center for Energy &amp; Environmental Educ</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571530</primary_id>
+    <first_name>Beth</first_name>
+    <middle_name>R</middle_name>
+    <last_name>Daniels</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Student Health Center 103</line2>
+                <line3>SHC 103  0385</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>beth.daniels@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2009</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057153002</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Counseling Center</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571537</primary_id>
+    <first_name>Charles</first_name>
+    <middle_name>C</middle_name>
+    <last_name>Skillen</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>McLeod Center 203</line2>
+                <line3>MCL 203  0312</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>charles.skillen@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6334</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057153700</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Concessions</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Operations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571688</primary_id>
+    <first_name>Denise</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Gerst</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Student Health Ctr 16</line2>
+                <line3>SHC 16  0221</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>denise.gerst@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2009</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057168801</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Student Health Clinic</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571719</primary_id>
+    <first_name>De&apos;Carlos</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Anderson</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>UNI Ctr For Urban Educ</line2>
+                <line3>DPT  4730</line3>
+                <line4></line4>
+                <city>Waterloo</city>
+                <state_province>IA</state_province>
+                <postal_code>50703</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>decarlos.anderson@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-4249</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057171901</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Educational Talent Search, Waterloo</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571775</primary_id>
+    <first_name>Laura</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Graves</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Ctr for Energy &amp; Env Educ 13</line2>
+                <line3>CEEE 13  0223</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>lgraves@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2303</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057177500</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="COLLEGE">Continuing Education &amp; Special Programs</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571878</primary_id>
+    <first_name>Hilal</first_name>
+    <middle_name></middle_name>
+    <last_name>Ergul</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Bartlett Hall 2015</line2>
+                <line3>BAR 2015  0502</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>hilal.ergul@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2729</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057187801</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Languages &amp; Literatures</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571918</primary_id>
+    <first_name>Melita</first_name>
+    <middle_name></middle_name>
+    <last_name>Zejnic</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Nielsen Field House 1</line2>
+                <line3>NFH 1  0611</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>melita.zejnic@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-3946</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057191802</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Child Development Center</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>571958</primary_id>
+    <first_name>Katie</first_name>
+    <middle_name>J</middle_name>
+    <last_name>Sires</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Sabin Hall 335</line2>
+                <line3>SAB 335  0404</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>katie.sires@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2039</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057195801</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Political Science</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>572046</primary_id>
+    <first_name>Riley</first_name>
+    <middle_name>J</middle_name>
+    <last_name>Hilbrands</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 30</line2>
+                <line3>GIL 30  0023</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>hilbranr@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2712</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057204601</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Public Safety</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>572727</primary_id>
+    <first_name>Angela</first_name>
+    <middle_name>K</middle_name>
+    <last_name>Dirks</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>UNI Dome NE Lower 0312</line2>
+                <line3>DOME NE Lower  0312</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>angela.dirks@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6334</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057272700</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Concessions</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Operations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>572804</primary_id>
+    <first_name>Sean</first_name>
+    <middle_name>A</middle_name>
+    <last_name>O&apos;Neal</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>East Bartlett 126</line2>
+                <line3>EBAR 126  0392</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>sean.oneal@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2761</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057280401</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">University Relations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>133180</primary_id>
+    <first_name>Helen</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Harrington</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Bartlett Hall 1089</line2>
+                <line3>BAR 1089  0501</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Helen.Harrington@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6221</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013318002</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Philosophy &amp; World Religions</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>133422</primary_id>
+    <first_name>David</first_name>
+    <middle_name>K</middle_name>
+    <last_name>Else</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Ctr for Energy &amp; Env Educ 13</line2>
+                <line3>CEEE 13  0223</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>David.Else@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-3358</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013342202</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>133484</primary_id>
+    <first_name>Phillip</first_name>
+    <middle_name>J</middle_name>
+    <last_name>Nelson</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Price Lab School 120</line2>
+                <line3>PLS 120  3593</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50613</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>phillip.nelson@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2185</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013348401</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>134481</primary_id>
+    <first_name>Vicki</first_name>
+    <middle_name>L</middle_name>
+    <last_name>Van Hauen</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>McLeod Center 203</line2>
+                <line3>MCL 203  0312</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>vv182857@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6334</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013448100</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Operations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>134703</primary_id>
+    <first_name>William</first_name>
+    <middle_name>C</middle_name>
+    <last_name>Salmon</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>UNI Dome NE Upper</line2>
+                <line3>DOME NE Upper  0311</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Bill.Salmon@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6784</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013470301</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>134811</primary_id>
+    <first_name>Janice</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Hanish</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Lang Hall 122</line2>
+                <line3>LNG 122  0003</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Jan.Hanish@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2331</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013481103</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DIVISION">Finance &amp; Operations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>134882</primary_id>
+    <first_name>David</first_name>
+    <middle_name>C</middle_name>
+    <last_name>Towle</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Student Health Center 103</line2>
+                <line3>SHC 103  0385</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>David.Towle@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2676</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013488202</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>135646</primary_id>
+    <first_name>Wilfred</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Johnson</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>UNI Ctr For Urban Educ</line2>
+                <line3>DPT  4730</line3>
+                <line4></line4>
+                <city>Waterloo</city>
+                <state_province>IA</state_province>
+                <postal_code>50703</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Wilfred.Johnson@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-4787</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013564603</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>135917</primary_id>
+    <first_name>James</first_name>
+    <middle_name>L</middle_name>
+    <last_name>Kelly</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>1227 West 27th Street</line2>
+                <line3></line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>James.Kelly@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2462</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013591701</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>136053</primary_id>
+    <first_name>Reginald</first_name>
+    <middle_name>J</middle_name>
+    <last_name>Green</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Innov Teaching &amp; Tech Ctr 7</line2>
+                <line3>ITT 7  0383</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Reginald.Green@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6023</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013605301</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>136075</primary_id>
+    <first_name>Mary</first_name>
+    <middle_name>L</middle_name>
+    <last_name>Franken</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>1227 West 27th Street</line2>
+                <line3></line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>mary.franken@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2462</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013607501</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>136168</primary_id>
+    <first_name>Lawrence</first_name>
+    <middle_name>L</middle_name>
+    <last_name>Dirkes</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>1227 West 27th Street</line2>
+                <line3></line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>ld184740@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2462</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013616801</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>136361</primary_id>
+    <first_name>Anne</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Nordquist</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Schindler Educ Ctr 205</line2>
+                <line3>SEC 205  0610</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Anne.Nordquist@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6199</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013636101</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>136468</primary_id>
+    <first_name>Thomas</first_name>
+    <middle_name>G</middle_name>
+    <last_name>Neessen</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>McLeod Center</line2>
+                <line3>MCL  0313</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>tn185094@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6334</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013646800</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Operations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>136683</primary_id>
+    <first_name>Roy</first_name>
+    <middle_name>D</middle_name>
+    <last_name>Unruh</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>H 32</line2>
+                <line3>H32  0223</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>roy.unruh@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2122</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013668300</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>137030</primary_id>
+    <first_name>Jere</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Vyverberg</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Schindler Educ Ctr 525</line2>
+                <line3>SEC 525  0607</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>jere.vyverberg@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2122</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013703000</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Ed Psych, Foundations, &amp; Ldrshp Studies</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>137203</primary_id>
+    <first_name>Phyllis</first_name>
+    <middle_name>B</middle_name>
+    <last_name>Conklin</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>1227 West 27th Street</line2>
+                <line3></line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>pc186091@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2462</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013720300</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>137224</primary_id>
+    <first_name>Jean</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Neibauer</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 102</line2>
+                <line3>GIL 102  0389</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Jean.Neibauer@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-3406</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013722403</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>137411</primary_id>
+    <first_name>Rosanne</first_name>
+    <middle_name>L</middle_name>
+    <last_name>Lang</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Redeker Center 110</line2>
+                <line3>RDC 110  0252</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Rosie.Lang@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-3122</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013741103</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>137711</primary_id>
+    <first_name>Linda</first_name>
+    <middle_name>S</middle_name>
+    <last_name>McCartney</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Ctr for Energy &amp; Env Educ 10</line2>
+                <line3>CEEE 10  0223</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Linda.McCartney@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2308</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013771102</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="COLLEGE">Continuing Education &amp; Special Programs</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>138012</primary_id>
+    <first_name>Shelley</first_name>
+    <middle_name>R</middle_name>
+    <last_name>Pruess</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Maucker Union 071</line2>
+                <line3>MAU 071  0167</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Shelley.Pruess@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-3743</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013801204</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>138049</primary_id>
+    <first_name>Mary</first_name>
+    <middle_name>S</middle_name>
+    <last_name>Doyle</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Schindler Educ Ctr 173</line2>
+                <line3>SEC 173  0613</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Mary.Doyle@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2367</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013804903</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>138107</primary_id>
+    <first_name>Sheryl</first_name>
+    <middle_name>J</middle_name>
+    <last_name>Hoffman</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Schindler Educ Ctr 153</line2>
+                <line3>SEC 153  0613</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Sheri.Hoffman@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2262</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013810703</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Teaching</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>138233</primary_id>
+    <first_name>Diane</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Kline</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>McLeod Center 203</line2>
+                <line3>MCL 203  0312</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>diane.kline@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6334</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013823300</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Concessions</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Operations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>138339</primary_id>
+    <first_name>Joanne</first_name>
+    <middle_name>K</middle_name>
+    <last_name>Loonan</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 2</line2>
+                <line3>GIL 2  0018</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Jo.Loonan@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2281</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013833902</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>138398</primary_id>
+    <first_name>Lea</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Shaddox</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Ctr for Energy &amp; Env Educ 13</line2>
+                <line3>CEEE 13  0223</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Lea.Shaddox@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6157</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013839802</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="COLLEGE">Continuing Education &amp; Special Programs</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>138513</primary_id>
+    <first_name>Joyce</first_name>
+    <middle_name></middle_name>
+    <last_name>Morrow</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 115</line2>
+                <line3>GIL 115  0006</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Joyce.Morrow@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2244</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013851303</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>138998</primary_id>
+    <first_name>Joy</first_name>
+    <middle_name>L</middle_name>
+    <last_name>Thorson</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 115</line2>
+                <line3>GIL 115  0006</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Joy.Thorson@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2110</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00013899803</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>140142</primary_id>
+    <first_name>Daniel</first_name>
+    <middle_name>J</middle_name>
+    <last_name>Breitbach</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Commons 304</line2>
+                <line3>COM 304  0282</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>dan.breitbach@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-7727</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014014201</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Development &amp; Foundation</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>140197</primary_id>
+    <first_name>Richard</first_name>
+    <middle_name>J</middle_name>
+    <last_name>Klein</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Iowa Waste Reduction Center</line2>
+                <line3>IWRC - 6114 Chancellor</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50613</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Rick.Klein@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-5351</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014019702</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>140257</primary_id>
+    <first_name>Edward</first_name>
+    <middle_name>F</middle_name>
+    <last_name>Wagner</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>1227 West 27th Street</line2>
+                <line3></line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>ew189865@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2462</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014025701</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>141148</primary_id>
+    <first_name>Sharon</first_name>
+    <middle_name></middle_name>
+    <last_name>Huddleston</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>1227 West 27th Street</line2>
+                <line3></line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>sh191107@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2462</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014114801</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>141379</primary_id>
+    <first_name>Kevin</first_name>
+    <middle_name>L</middle_name>
+    <last_name>Launderville</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>UNI Dome NE Lower 0312</line2>
+                <line3>DOME NE Lower  0312</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Kevin.Launderville@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6237</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014137902</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">UNI-Dome Concessions</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>141493</primary_id>
+    <first_name>Diane</first_name>
+    <middle_name>J</middle_name>
+    <last_name>Albertson</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Bus and Comm Svcs 113J</line2>
+                <line3>BCS 113J  0185</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Diane.Albertson@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6575</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014149303</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>141845</primary_id>
+    <first_name>Nancy</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Justis</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>UNI Dome NW Upper</line2>
+                <line3>DOME NW Upper  0314</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Nancy.Justis@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6354</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014184501</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>142795</primary_id>
+    <first_name>Belinda</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Creighton-Smith</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Sabin Hall 261</line2>
+                <line3>SAB 261  0405</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>bs193151@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6840</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014279502</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Social Work</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Women&apos;s &amp; Gender Studies</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>142818</primary_id>
+    <first_name>Lynda</first_name>
+    <middle_name>L</middle_name>
+    <last_name>Goulet</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Curris Business Building 264</line2>
+                <line3>CBB 264  0130</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Lynda.Goulet@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-7350</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014281801</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>142859</primary_id>
+    <first_name>Cheryl</first_name>
+    <middle_name>R</middle_name>
+    <last_name>Smith</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Communication Arts Center 266</line2>
+                <line3>CAC 266  0358</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Cheryl.Smith@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6809</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014285902</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>142865</primary_id>
+    <first_name>Eleanor</first_name>
+    <middle_name>B</middle_name>
+    <last_name>Crownfield</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>1227 West 27th Street</line2>
+                <line3></line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>eleanor.crownfield@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2462</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014286501</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>142972</primary_id>
+    <first_name>Terry</first_name>
+    <middle_name>D</middle_name>
+    <last_name>Goro</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Industrial Technology Center 25</line2>
+                <line3>ITC 25  0178</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Terry.Goro@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2561</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014297200</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>143290</primary_id>
+    <first_name>Joyce</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Willms</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 103</line2>
+                <line3>GIL 103  0008</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Joyce.Willms@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6441</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014329003</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Business Operations</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>144107</primary_id>
+    <first_name>Annette</first_name>
+    <middle_name>F</middle_name>
+    <last_name>Lynch</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Latham Hall 233</line2>
+                <line3>LAT 233  0332</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Annette.Lynch@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2114</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014410702</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>
+<users>
+    <primary_id>144216</primary_id>
+    <first_name>Jean</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Carlisle</last_name>
+    <user_group desc="UNIEmeritus">UNIEmeritus</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Commons 204</line2>
+                <line3>COM 204  0282</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>Jean.Carlisle@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2487</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014421601</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics></user_statistics>
+</users>

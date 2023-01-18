@@ -1,11 +1,12 @@
 import os
+import sys
 from myObjects import Batch
 from myObjects import Document
 from myObjects import Keyword
 from myObjects import File
 
-IN_PATH = "H:\AIMG-362\PDF_Reports_2213_final(copy)"
-OUT_PATH = "H:\AIMG-362"
+
+PATH = input("Enter the path: ")
 KEYWORD_TYPE_LIST = ["HR_ORGANIZATION", "FACULTY_UID", "TERM","SUBJECT","CATALOG_NUMBER" ,"SECTION", "DESCRIPTION", "PATH"]
 
 def construct_documents(KEYWORD_TYPE_LIST, batch):
@@ -27,9 +28,11 @@ def construct_documents(KEYWORD_TYPE_LIST, batch):
 
 
 def main():
-    #Construct a list of all the fileNames in the IN_Path directory.
-    fileList = os.listdir(IN_PATH)
     
+    
+    #Construct a list of all the fileNames in the IN_Path directory.
+    fileList = os.listdir(PATH)
+
     # instantiate Batch obj
     batch = Batch()
     
@@ -47,13 +50,13 @@ def main():
         print("All the files are not formated correctly.\nBelow are the incorrect files:\n\n")
         batch.print_dirtyFiles()
         #write the strings to a file
-        batch.write_cleanFiles(OUT_PATH + "\clean_files.txt", "w")  
-        batch.write_dirtyFiles(OUT_PATH + "\dirty_files.txt", "w")
+        batch.write_cleanFiles(PATH + "\clean_files.txt", "w")  
+        batch.write_dirtyFiles(PATH + "\dirty_files.txt", "w")
     else:
         print("All the file are correctly formated.\n")
         construct_documents(KEYWORD_TYPE_LIST, batch)
         # Create index file for Document Import Processor (DIP)
-        batch.create_index_file(OUT_PATH + "\index_student_assessment_reports.txt", "w")
+        batch.create_index_file(PATH + "\index_student_assessment_reports.txt", "w")
         
     
 main()

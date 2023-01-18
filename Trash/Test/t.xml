@@ -1,0 +1,425 @@
+<users>
+    <primary_id>142795</primary_id>
+    <first_name>Belinda</first_name>
+    <middle_name>A</middle_name>
+    <last_name>Creighton-Smith</last_name>
+    <user_group desc="UNIFaculty">UNIFaculty</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Sabin Hall 261</line2>
+                <line3>SAB 261  0405</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>bs193151@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6840</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00014279502</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Social Work</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Women&apos;s &amp; Gender Studies</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>257535</primary_id>
+    <first_name>Ann</first_name>
+    <middle_name>M</middle_name>
+    <last_name>Schilling</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Latham Hall 235</line2>
+                <line3>LAT 235  0332</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>ann.schilling@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2814</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00025753501</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Applied Human Sciences, School of</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Dining</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>579258</primary_id>
+    <first_name>Nino</first_name>
+    <middle_name></middle_name>
+    <last_name>Mateshvili</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Maucker Union 113</line2>
+                <line3>MAU 113  0164</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>mateshvn@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-2772</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00057925802</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">International Engagement</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>599173</primary_id>
+    <first_name>Stacie</first_name>
+    <middle_name>G</middle_name>
+    <last_name>Buchanan</last_name>
+    <user_group desc="UNIStaffVisitor">UNIStaffVisitor</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Gilchrist 27</line2>
+                <line3>GIL 27  0034</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>stacie.buchanan@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-6249</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00059917301</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Human Resource Services</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>651805</primary_id>
+    <first_name>Kristina</first_name>
+    <middle_name>E</middle_name>
+    <last_name>Kofoot</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Human Performance Ctr 107</line2>
+                <line3>HPC 107  0241</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>kristina.kofoot@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-4507</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00065180503</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Community Engagement</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Health, Recreation &amp; Community Services</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>453779</primary_id>
+    <first_name>Daniel</first_name>
+    <middle_name>E</middle_name>
+    <last_name>Beenken</last_name>
+    <user_group desc="UNIPSEmployee">UNIPSEmployee</user_group>
+    <expiry_date></expiry_date>
+    <purge_date></purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Active">ACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>University of Northern Iowa</line1>
+                <line2>Bus and Comm Svcs 32</line2>
+                <line3>BCS 32  0120</line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50614</postal_code>
+                <country>US</country>
+                <address_types>
+                    <address_type desc="Work">work</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>dan.beenken@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="Work">work</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>319-273-4322</phone_number>
+                <phone_types>
+                    <phone_type desc="Office">office</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00045377904</value>
+            <status>ACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="DEPARTMENT">Family Business Center</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Marketing &amp; Entrepreneurship</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
+<users>
+    <primary_id>694690</primary_id>
+    <first_name>Jazz</first_name>
+    <middle_name>Sue</middle_name>
+    <last_name>Jensen</last_name>
+    <user_group desc="UNI Student">UNIStudent</user_group>
+    <expiry_date>2022-12-16</expiry_date>
+    <purge_date>2022-12-16</purge_date>
+    <account_type desc="External">EXTERNAL</account_type>
+    <status desc="Inactive">INACTIVE</status>
+    <contact_info>
+        <addresses>
+            <address preferred="true">
+                <line1>1501 30th St-PVL 3142C</line1>
+                <line2>PVL3-2</line2>
+                <line3></line3>
+                <line4></line4>
+                <city>Cedar Falls</city>
+                <state_province>IA</state_province>
+                <postal_code>50613-9405</postal_code>
+                <country>USA</country>
+                <address_types>
+                    <address_type desc="School">school</address_type>
+                </address_types>
+            </address>
+        </addresses>
+        <emails>
+            <email preferred="true">
+                <email_address>jensejap@uni.edu</email_address>
+                <email_types>
+                    <email_type desc="School">school</email_type>
+                </email_types>
+            </email>
+        </emails>
+        <phones>
+            <phone preferred="true">
+                <phone_number>970/652-3453</phone_number>
+                <phone_types>
+                    <phone_type desc="Mobile">mobile</phone_type>
+                </phone_types>
+            </phone>
+            <phone preferred="false">
+                <phone_number>970/652-3453</phone_number>
+                <phone_types>
+                    <phone_type desc="Home">home</phone_type>
+                </phone_types>
+            </phone>
+        </phones>
+    </contact_info>
+    <user_identifiers>
+        <user_identifier segment_type="External">
+            <id_type desc="Additional ID 1">OTHER_ID_1</id_type>
+            <value>00069469001</value>
+            <status>INACTIVE</status>
+        </user_identifier>
+    </user_identifiers>
+    <user_statistics>
+        <user_statistic segment_type="External">
+            <statistic_category desc="Major">Art: Studio BFA</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+        <user_statistic segment_type="External">
+            <statistic_category desc="ACADEMIC">Art</statistic_category>
+            <statistic_note></statistic_note>
+        </user_statistic>
+    </user_statistics>
+</users>
