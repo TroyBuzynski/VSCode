@@ -1,7 +1,70 @@
 
 /* Global styles  */
 /* -------------------------------- */
+
+body {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+
 img { 
     width: 300px;
 }
+
+a {
+    color: blueviolet;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Profile */
+/* ------------------------------------- */
+header {
+    background: darkblue;
+    color: azure;
+}
+
+/* Projects */
+/* ------------------------------------------- */
+.projects {
+    background: whitesmoke;
+}
+
+.projects a {
+    color:  whitesmoke;
+    background: blue;
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.projects a:hover {
+    background: rgba(0,0,150,0);
+}
+/* Work Experience */
+/* -------------------------------------------- */
+.work_experience {
+    background: lightblue;
+
+}
+/* Education */
+/* ---------------------------------------------- */
+.education {
+
+}
+
+/* Contact Info */
+/* ------------------------------------------------ */
+
+footer {
+    background: darkgray;
+    color: azure;
+
+}
+
+
+
+
 
